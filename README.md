@@ -125,6 +125,3 @@ All options are optional, including the `el`.
 ## License
 
 MIT
-
-[date] : https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/calendar.png "Date select image"
-[time] : https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/time.png "Time select image"
