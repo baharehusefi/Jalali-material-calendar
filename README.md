@@ -2,7 +2,7 @@
 
 JALALI Material Design date/time picker modal, built for the web. Works well with Materialize, or standalone.
 
-![date]
+![alt text]( https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/calendar.png "Date select image"?raw=true)
 
 
 
@@ -126,4 +126,5 @@ All options are optional, including the `el`.
 
 MIT
 
-[date]: https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/calendar.png "Date select image"
+[date] : https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/calendar.png "Date select image"
+[time] : https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/time.png "Time select image"
