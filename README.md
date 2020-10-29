@@ -2,6 +2,7 @@
 
 JALALI Material Design date/time picker modal, built for the web. Works well with Materialize, or standalone.
 
+![date]
 
 
 
