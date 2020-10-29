@@ -125,3 +125,4 @@ All options are optional, including the `el`.
 
 MIT
 
+[date]: https://github.com/ripjar/material-datepicker/raw/master/demo/date.png "Date select image"
