@@ -125,4 +125,4 @@ All options are optional, including the `el`.
 
 MIT
 
-[date]: https://github.com/baharehusefi/Jalali-material-calendar/screenshots/calendar.png "Date select image"
+[date]: https://github.com/baharehusefi/Jalali-material-calendar/tree/main/screenshots/calendar.png "Date select image"
