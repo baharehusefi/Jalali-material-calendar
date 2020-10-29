@@ -2,11 +2,7 @@
 
 JALALI Material Design date/time picker modal, built for the web. Works well with Materialize, or standalone.
 
-[https://ripjar.github.io/material-datetime-picker/](https://ripjar.github.io/material-datetime-picker/)
 
-
-
-![Time][date] ![Time][time]
 
 
 
@@ -129,8 +125,3 @@ All options are optional, including the `el`.
 
 MIT
 
-
-[date]: https://github.com/ripjar/material-datepicker/raw/master/demo/date.png "Date select image"
-[time]: https://github.com/ripjar/material-datepicker/raw/master/demo/time.png "Time select image"
-[status]: https://api.travis-ci.org/ripjar/material-datetime-picker.svg "Build Status"
-[npm]: https://img.shields.io/npm/v/material-datetime-picker.svg "Package"
